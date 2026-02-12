@@ -12,12 +12,10 @@ public class ApirestfulApplication {
 
 		String port = context.getEnvironment().getProperty("server.port", "8080");
 		System.out.println("\n========================================");
-		System.out.println("✅ Aplicação iniciada com sucesso!");
+		System.out.println("iniciado com sucesso!");
 		System.out.println("========================================");
-		System.out.println("🌐 Servidor: http://localhost:" + port);
-		System.out.println("📚 Swagger UI: http://localhost:" + port + "/swagger-ui/index.html");
-		System.out.println("📋 API Docs: http://localhost:" + port + "/v3/api-docs");
-		System.out.println("❤️  Health: http://localhost:" + port + "/actuator/health");
+		System.out.println("Swagger UI: http://localhost:" + port + "/swagger-ui/index.html");
+		System.out.println("API Docs: http://localhost:" + port + "/v3/api-docs");
 		System.out.println("========================================\n");
 	}
 
