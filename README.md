@@ -102,8 +102,8 @@ API REST robusta para gerenciamento de tarefas, desenvolvida com **Spring Boot 4
 ### 1️⃣ Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/task-manager-api.git
-cd task-manager-api
+https://github.com/CristianAndriel/API-RESTful_Projeto.git
+cd API-RESTful_Projeto
 ```
 
 ### 2️⃣ Configure o Banco de Dados
