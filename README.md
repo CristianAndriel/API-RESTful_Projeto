@@ -1,4 +1,4 @@
-# 📝 Task Manager API
+# 📝 Task API
 
 <div align="center">
 
